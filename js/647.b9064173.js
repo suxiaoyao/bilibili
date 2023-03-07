@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkly_bi_h5"]=self["webpackChunkly_bi_h5"]||[]).push([[647],{647:function(a,t,e){e.r(t),e.d(t,{default:function(){return c}});var i=function(){var a=this,t=a._self._c;return t("div",{staticClass:"radio"},[t("van-nav-bar",{attrs:{title:a.activeTitle,fixed:""}}),t("h1",[a._v("This is an radio page")])],1)},n=[],r={name:"RadioHome",components:{},data(){return{activeTitle:"电台"}},watch:{}},s=r,l=e(1001),u=(0,l.Z)(s,i,n,!1,null,"17d00a4a",null),c=u.exports}}]);
+//# sourceMappingURL=647.b9064173.js.map
