@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkly_bi_h5"]=self["webpackChunkly_bi_h5"]||[]).push([[755],{1755:function(t,e,i){i.r(e),i.d(e,{default:function(){return r}});var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"music"},[e("van-nav-bar",{attrs:{title:t.activeTitle,fixed:""}}),e("h1",[t._v("This is an music page")])],1)},n=[],s={name:"MusicHome",components:{},data(){return{activeTitle:"乐库"}},watch:{}},c=s,u=i(1001),l=(0,u.Z)(c,a,n,!1,null,"2cc7e222",null),r=l.exports}}]);
+//# sourceMappingURL=755.d0c8deee.js.map
