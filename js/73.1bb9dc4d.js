@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkly_bi_h5"]=self["webpackChunkly_bi_h5"]||[]).push([[73],{7073:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var i=function(){var e=this,t=e._self._c;return t("div",{staticClass:"mine"},[t("van-nav-bar",{attrs:{title:e.activeTitle,fixed:""}}),t("h1",[e._v("This is an mine page")])],1)},a=[],s={name:"MineHome",components:{},data(){return{activeTitle:"我的"}},watch:{}},l=s,r=n(1001),u=(0,r.Z)(l,i,a,!1,null,"20446559",null),c=u.exports}}]);
+//# sourceMappingURL=73.1bb9dc4d.js.map
